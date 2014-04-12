@@ -35,6 +35,8 @@ local.properties
 # TeXlipse plugin
 .texlipse
 
+# Note-Thief Dependent
+appcompat_v7/*
 
 # ------------------
 # Android .gitignore
